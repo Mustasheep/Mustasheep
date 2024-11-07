@@ -9,8 +9,11 @@
   </a>
 </p>
 
+<p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustasheep&layout=compact)](https://github.com/Mustasheep/github-readme-stats)
 
+</p>
 ##
 
 <div>
