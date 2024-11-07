@@ -6,7 +6,7 @@
 ### O que eu sei:
 <div>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,pandas,numpy,matplotlib,tensorflow,mysql,pbi,tableau,gcp,aws" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,pandas,numpy,tensorflow,mysql,pbi,tableau,gcp,aws" />
   </a>
 </div>
 
