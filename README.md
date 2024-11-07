@@ -1,11 +1,14 @@
 ### Seja bem-vindo ao meu GitHub 👋
 
 - Me chamo Thiago e sou estudante de Ciência de Dados e meu foco é aperfeiçoar minhas habilidades em Machine Learning e Inteligência Artificial.
-<p align="center">
+##
+
+### Habilidades:
+<div>
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,gcp,aws" />
   </a>
-</p>
+</div>div>
 
 ##  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustasheep&layout=compact)](https://github.com/Mustasheep/github-readme-stats)
