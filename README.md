@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao meu GitHub 👋
 
-- Me chamo Thiago e sou estudante de Ciência de Dados e meu foco é aperfeiçoar minhas habilidades em Machine Learning e Inteligência Artificial.
+- Me chamo Thiago e sou estudante de Ciência de Dados. Meu foco é aperfeiçoar minhas habilidades em Machine Learning e Inteligência Artificial.
 ##
 
 ### O que eu sei:
