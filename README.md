@@ -1,9 +1,9 @@
 ### Seja bem-vindo ao meu GitHub 👋
 
-- Me chamo Thiago e sou estudante de Ciência de Dados. Meu foco é aperfeiçoar minhas habilidades em _Machine Learning_ e _Artificial Intelligence_.
-##
+- My name is Thiago and I am a Data Science student. My focus is on improving my skills in _Machine Learning_ and _Artificial Intelligence_.
 
-### O que eu sei:
+
+### I know:
 <div>
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,pandas,numpy,mysql,pbi,tableau,gcp,aws,azure" />
