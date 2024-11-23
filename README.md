@@ -1,4 +1,4 @@
-### Seja bem-vindo ao meu GitHub 👋
+### Welcome to my Github 👋
 
 - My name is Thiago and I am a Data Science student. My focus is on improving my skills in _Machine Learning_ and _Artificial Intelligence_.
 
