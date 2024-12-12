@@ -26,7 +26,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/sheep8" width="32px" alt="Discord" title="My Discord"><img width="32px" src="https://img.icons8.com/?size=100&id=xmpxGzSLFcZE&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="thiagoassis.scientist@gmail.com" width="32px" alt="Gmail" title="My email"><img width="32px" src="https://img.icons8.com/?size=100&id=48165&format=png&color=000000"/></a>
+  <a href="mailto:thiagoassis.scientist@gmail.com" width="32px" alt="Gmail" title="My email"><img width="32px" src="https://img.icons8.com/?size=100&id=48165&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
