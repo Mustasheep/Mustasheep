@@ -2,23 +2,40 @@
 
 `🔸 I am passionate about data. My skills include collecting, cleaning, and transforming data to extract valuable insights through exploratory analysis. My goal is to master machine learning techniques to build predictive models and drive my projects.`
 
-### I know:
+<p align="center">  
+  💻
+</p>
+
 <div>
+<p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,pandas,numpy,postgresql,pbi,tableau,gcp,aws,azure" />
   </a>
 </div>
+</p>
 
-##  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustasheep&layout=compact)](https://github.com/Mustasheep?tab=repositories)
+----------------------
 
-##
+  <h3>📊 GitHub Profile Stats</h3>
 
-<div>
-  <a href="https://www.linkedin.com/in/thiago-mustasheep" alt="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-mustasheep"></a>
-  <a href="mailto:thiagoassis.escritorio@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/-Email-c4463a?style=for-the-badge&labelColor=c4463a&logo=email&logoColor=white&link=mailto:thiagoassis.escritorio@gmail.com"></a>
-  <a href="https://discord.com/users/sheep8" alt="Discord" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=5865F2&logo=discord&logoColor=white&link=https://discord.com/users/sheep8"></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Mustasheep&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Thiago's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mustasheep&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
+-----------------------
+    
+  <h3>📈 My contribution</h3>
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Thiago's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mustasheep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+-------------------------
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-mustasheep"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/sheep8" alt="Discord" title="My Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
