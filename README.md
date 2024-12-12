@@ -1,6 +1,5 @@
-### Welcome to my Github 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b6914&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+👋;My+name+is+Thiago;Data+Science+Student+!+!;)](https://git.io/typing-svg)
 
-- My name is Thiago and I am a Data Science student. My focus is on improving my skills in _Machine Learning_ and _Artificial Intelligence_.
 
 
 ### I know:
