@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C35D56&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+👋;My+name+is+Thiago;Im+a+Data+Science+Student+!!;)](https://git.io/typing-svg)
 
--- I am passionate about data. My skills include _collecting_, _cleaning_, and _transforming_ data to extract valuable insights through _exploratory analysis_. My goal is to master _machine learning_ techniques to build predictive models and drive my projects.
+`🔸 I am passionate about data. My skills include collecting, cleaning, and transforming data to extract valuable insights through exploratory analysis. My goal is to master machine learning techniques to build predictive models and drive my projects.`
 
 ### I know:
 <div>
