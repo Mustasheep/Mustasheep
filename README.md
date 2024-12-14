@@ -3,7 +3,7 @@
 `🔸 I am passionate about data. My skills include collecting, cleaning, and transforming data to extract valuable insights through exploratory analysis. My goal is to master machine learning techniques to build predictive models and drive my projects.`
 
   <h3>💻 I Know</h3>
-  <a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,pandas,numpy,postgresql,pbi,tableau,gcp,aws,azure" />
+  <a href="https://github.com/Mustasheep"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,pandas,numpy,postgresql,pbi,tableau,gcp,aws,azure" />
   </a> 
   
 
