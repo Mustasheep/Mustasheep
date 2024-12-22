@@ -9,9 +9,6 @@
 
   <h3>📊 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/Mustasheep?tab=repositories">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="My streak stats 🔥" alt="Thiago's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Mustasheep&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
   <a href="https://github.com/Mustasheep?tab=repositories"><img alt="Thiago's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mustasheep&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
     
