@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f75c7e&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+👋;My+name+is+Thiago;Im+a+Data+Science+Student+!!;)](https://git.io/typing-svg)
 
-`🔸 I am passionate about data. My skills include collecting, cleaning, and transforming data to extract valuable insights through exploratory analysis. My goal is to master machine learning techniques to build predictive models and drive my projects.`
+`🔸 I'm passionate about data, especially textual data. My skills include collecting, cleaning and transforming textual data to extract valuable insights through exploratory analysis. My goal is to master natural language processing (NLP) techniques to develop innovative applications and boost my projects.`
 
   <h3>💻 I Know</h3>
   <a href="https://github.com/Mustasheep"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,postgresql,pbi,tableau,gcp,aws,azure" />
