@@ -3,7 +3,7 @@
 `🔸 I'm passionate about data, especially textual data. My skills include collecting, cleaning and transforming textual data to extract valuable insights through exploratory analysis. My goal is to master natural language processing (NLP) techniques to develop innovative applications and boost my projects.`
 
   <h3>💻 I Know</h3>
-  <a href="https://github.com/Mustasheep"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,r,py,numpy,pandas,matplotlib,seaborn,pytorch,sklearn,opencv,linux,git,mysql,postgresql,pbi,looker,gcp,aws,azure" />
+  <a href="https://github.com/Mustasheep"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,r,py,numpy,pandas,matplotlib,seaborn,pytorch,sklearn,opencv,linux,git,mysql,postgresql,pbi,looker,figma,gcp,aws,azure" />
   </a> 
   
 
