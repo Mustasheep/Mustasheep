@@ -5,16 +5,6 @@
   <h3>💻 I Know</h3>
   <a href="https://github.com/Mustasheep"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,r,py,numpy,pandas,matplotlib,seaborn,pytorch,sklearn,opencv,linux,git,mysql,postgresql,pbi,looker,figma,gcp,aws,azure" />
   </a> 
-  
-
-  <h3>📊 GitHub Profile Stats</h3>
-  <a href="https://github.com/Mustasheep?tab=repositories"><img title="My streak stats 🔥" alt="Thiago's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Mustasheep&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
-  <a href="https://github.com/Mustasheep?tab=repositories"><img alt="Thiago's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mustasheep&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="190px"/></a>
-  <br/>
-    
-  <h3>📈 My contribution</h3>
-  
-  <a href="https://github.com/Mustasheep?tab=repositories"><img alt="Thiago's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mustasheep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---------------
 
