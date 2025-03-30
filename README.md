@@ -6,6 +6,12 @@
   <a href="https://github.com/Mustasheep"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,r,py,numpy,pandas,matplotlib,seaborn,pytorch,sklearn,opencv,linux,git,mysql,postgresql,pbi,looker,figma,gcp,aws,azure" />
   </a> 
 
+<h3>🎖 Badges</h3>
+
+[<img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="auto">](https://www.credly.com/earner/earned/badge/ea3f26ca-737f-445a-83d5-b7d3b58d6bd5)
+[<img src="https://images.credly.com/size/220x220/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="100" height="auto">](https://www.credly.com/earner/earned/badge/0713b3f2-d6e9-474f-8b7b-e540a0d77549)
+[<img src="https://certwizard.com/sites/default/files/styles/440xauto/public/2022-10/SC-900-exam-cbt-proxy-assistance-certwizard.png?itok=2TL4g49N" width="100" height="auto">](https://learn.microsoft.com/pt-br/users/75925364/credentials/9f735daa330541de?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
 ---------------
 
   <p align="center">
