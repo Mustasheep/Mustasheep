@@ -8,7 +8,7 @@
 
 <h3>🎖 Badges</h3>
 
-![image](https://github.com/user-attachments/assets/7fc555c0-bd4c-4e1b-b221-f2dbf6193023)
+![image](https://github.com/user-attachments/assets/99121db3-a1cb-433b-be0a-b3cf3e976936)
 
 
 ---------------
