@@ -11,8 +11,8 @@
 [<img src="https://github.com/user-attachments/assets/9ba9078c-cad2-4f26-8c49-871c248941e3" width="90">](https://credentials.databricks.com/519a93dc-53c4-4870-bc56-9979a8de3d0d#acc.d4KsY1xC)
 [<img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" height="auto">](https://www.credly.com/earner/earned/badge/ea3f26ca-737f-445a-83d5-b7d3b58d6bd5)
 [<img src="https://images.credly.com/size/220x220/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="90" height="auto">](https://www.credly.com/earner/earned/badge/0713b3f2-d6e9-474f-8b7b-e540a0d77549)
-[<img src="https://certwizard.com/sites/default/files/styles/440xauto/public/2022-10/SC-900-exam-cbt-proxy-assistance-certwizard.png?itok=2TL4g49N" width="90" height="auto">](https://learn.microsoft.com/pt-br/users/75925364/credentials/9f735daa330541de?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-[<img src="https://github.com/user-attachments/assets/bc155915-962a-4c35-8840-ef8713310336" width="90">](https://learn.microsoft.com/pt-br/users/75925364/credentials/ec7ed6fe0af6692e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[<img width="240" height="auto" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/296259b8-8ae8-42db-8b09-805b46380d1f">](https://github.com/Mustasheep/)
+
 
 
 ---------------
