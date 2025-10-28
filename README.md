@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f75c7e&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+👋;My+name+is+Thiago;Im+a+Data+Science+Student+!!;)](https://git.io/typing-svg)
 
-`🔸 I’m passionate about data, AI, and cloud technologies. My skills include designing, deploying, and automating machine learning workflows on Azure. I focus on building scalable solutions, applying MLOps best practices, and leveraging data to deliver impactful insights and applications.
+`🔸 I’m passionate about data, AI, and cloud technologies. My skills include designing, deploying, and automating machine learning workflows on Azure. I focus on building scalable solutions, applying MLOps best practices, and leveraging data to deliver impactful insights and applications.`
 
-Recently, my main focus has been on developing intelligent agents, chatbots, and RAG (Retrieval-Augmented Generation) systems that combine data-driven reasoning with LLMs to enable more dynamic and context-aware AI solutions.`
+`Recently, my main focus has been on developing intelligent agents, chatbots, and RAG (Retrieval-Augmented Generation) systems that combine data-driven reasoning with LLMs to enable more dynamic and context-aware AI solutions.`
 
   <h3>💻 I Know</h3>
   <a href="https://github.com/Mustasheep"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,r,py,numpy,pandas,matplotlib,seaborn,pytorch,sklearn,opencv,linux,git,mysql,postgresql,pbi,looker,figma,gcp,aws,azure" />
